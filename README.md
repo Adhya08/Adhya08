@@ -63,20 +63,6 @@ Open To:      AI/ML Internships | Data Science | Applied Research |
 
 ---
 
-## 📌 Most Relevant Repos
-
-<div align="center">
-
-<a href="https://github.com/Adhya08/Infra-Drishti"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhya08&repo=Infra-Drishti&theme=radical&hide_border=true"/></a>
-<a href="https://github.com/Adhya08/PulseIQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhya08&repo=PulseIQ&theme=radical&hide_border=true"/></a>
-<a href="https://github.com/Adhya08/SamajhLe-Legal-Document-Intelligence-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhya08&repo=SamajhLe-Legal-Document-Intelligence-System&theme=radical&hide_border=true"/></a>
-<a href="https://github.com/Adhya08/Dash-Talk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhya08&repo=Dash-Talk&theme=radical&hide_border=true"/></a>
-
-<sub>These auto-sync live from GitHub. Swap any of these anytime by pinning a different repo from the <a href="https://github.com/Adhya08?tab=repositories">repositories tab</a> (Profile → Customize your pins).</sub>
-
-</div>
-
----
 
 ## 🤖 ML & AI Projects
 
