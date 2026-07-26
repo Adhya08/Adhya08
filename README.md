@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=220&section=header&text=Adhya%20Kulshreshtha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Builder%20%7C%20Web%20App%20Developer%20%7C%20Hackathon%20Regular&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00C6FF&center=true&vCenter=true&width=600&lines=Training+and+fine-tuning+models+that+solve+real+problems;AI+%26+ML+Builder+%7C+Exploring+Cybersecurity;ML+Intern+%40+CodeAlpha+%7C+Security+Intern+%40+Decode+Labs;Job+Simulating+%40+Forage+%7C+Learning+Daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C6FF&center=true&vCenter=true&width=700&lines=Training+%26+fine-tuning+models+for+real+problems;AI+%26+ML+Builder+%7C+Exploring+Cybersecurity;ML+%40+CodeAlpha+%7C+Security+%40+Decode+Labs;Job+Simulating+%40+Forage+%7C+Learning+Daily" alt="Typing SVG" />
 </a>
 
 <br/>
