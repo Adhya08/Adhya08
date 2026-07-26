@@ -21,25 +21,28 @@
 ## 🤖 whoami
 
 ```yaml
-name:        Adhya Kulshreshtha
-role:        AI / ML Builder | Aspiring Model Trainer & Researcher
-degree:      B.Tech CSE, Delhi Technical Campus (IPU) — 2nd Year, 2025-2029
-based_in:    Delhi, India
-experience:
-  - Intern @ CodeAlpha — ML-focused tasks & mentored model-building projects
-  - Intern @ Decode Labs — purely cybersecurity-focused project work
-  - Job Simulations @ Forage — practical, industry-style case work
-core_focus:
+Name      :   Adhya Kulshreshtha
+Role      :   AI / ML Builder | Aspiring Model Trainer & Researcher
+Degree    :   B.Tech CSE, Delhi Technical Campus (IPU) — 2nd Year, 2025-2029
+Based_in  :   Delhi, India
+Experience:
+  - Intern @ CodeAlpha       — ML-focused tasks & mentored model-building projects
+  - Intern @ Decode Labs     — Cybersecurity-focused project work
+  - Job Simulations @ Forage — Practical, industry-style case work
+
+Core_focus:
   - Applied ML     → Training & fine-tuning models for real-world prediction problems
   - Web App Dev    → Full-stack builds that ship, not just prototypes
   - Cybersecurity  → Actively exploring alongside ML — a growing second focus
-currently:
+
+Currently:
   - Building multiple projects in collaboration with fellow builders
   - On a steady hackathon streak — 10+ hackathons & tech events attended
   - Completing Forage job simulations to build industry-ready skills
   - Learning something new in AI/ML every single day
-mindset:      "Train the model. Understand the problem. Ship the solution."
-open_to:      AI/ML Internships | Data Science | Applied Research | Hackathon Teams
+
+Mindset:      Train the model. Understand the problem. Ship the solution.
+Open To:      AI/ML Internships | Data Science | Applied Research |
 ```
 
 ---
@@ -50,11 +53,11 @@ open_to:      AI/ML Internships | Data Science | Applied Research | Hackathon Te
 
 | Status | Track | Detail |
 |:---:|---|---|
-| 🟢 Active | **Internship @ CodeAlpha** | ML-focused tasks & mentored model-building |
-| 🟢 Active | **Internship @ Decode Labs** | Purely cybersecurity-focused project work |
-| 🟡 In Progress | **Forage Job Simulations** | Practical, industry-style case simulations |
-| 🔵 Exploring | **Cybersecurity Fundamentals** | Growing alongside her core ML focus |
-| 🟣 Ongoing | **Hackathon Season** | 10+ hackathons attended · more lined up every month |
+| 🟢 Active      | **Internship @ CodeAlpha**     | ML-focused tasks & mentored model-building          |
+| 🟢 Active      | **Internship @ Decode Labs**   | Cybersecurity-focused project work                  |
+| 🟡 In Progress | **Forage Job Simulations**     | Practical, industry-style case simulations          |
+| 🔵 Exploring   | **Cybersecurity Fundamentals** | Growing alongside her core ML focus                 |
+| 🟣 Ongoing     | **Hackathon Season**           | 10+ hackathons attended · more lined up every month |
 
 </div>
 
@@ -138,19 +141,6 @@ Part of an ongoing series of dashboard/communication-focused builds shipped alon
 
 ---
 
-## 🧪 Also Shipping
-
-<div align="center">
-
-| Repo | What it does |
-|---|---|
-| 💡 **[Ideathon](https://github.com/Adhya08/Ideathon)** | Hackathon-born build — actively evolving |
-| 🌱 **[plant-event](https://github.com/Adhya08/plant-event)** | Event-based web app project |
-
-</div>
-
----
-
 ## ⚔️ Tech Arsenal
 
 <div align="center">
@@ -205,10 +195,10 @@ Part of an ongoing series of dashboard/communication-focused builds shipped alon
 
 | Milestone | What She Built |
 |---|---|
-| 🛣️ **Most-Starred Project** | Infra-Drishti — predictive infrastructure-risk platform used across roads, bridges & flyovers |
-| ❤️ **Health ML System** | PulseIQ — multi-system health insight & risk-prediction engine |
-| ⚖️ **Collaborative AI Build** | SamajhLe — legal document intelligence system, built with teammates |
-| 🧪 **Dual Internship** | CodeAlpha (ML) + Decode Labs (Cybersecurity) — building in both domains in parallel |
+| 🛣️ **Most-Starred Project**   | Infra-Drishti — predictive infrastructure-risk platform used across roads & bridges |
+| ❤️ **Health ML System**       | PulseIQ — multi-system health insight & risk-prediction engine                      |
+| ⚖️ **Collaborative AI Build** | SamajhLe — legal document intelligence system, built with teammates                 |
+| 🧪 **Internship**             | CodeAlpha (ML) + Decode Labs (Cybersecurity) — building in both domains in parallel |
 
 ---
 
@@ -231,8 +221,6 @@ A few of the ones that matter most — largely shared with her regular hackathon
 - 💻 **Vihaan 9.0, DTU Delhi** — Software Track, placed **13th among 130 teams**
 - 🧠 **Agent{a}thon, Paytm Office** — placed **Top 10 among 100 teams**
 - 🚀 **Techsprint — GDGoC**, Delhi Technical Campus
-- 🌊 **Dreamflow Buildathon 2025** (Hack2Skill)
-- 🍽️ **Foodoscope — Fork It Challenge**
 
 </td>
 <td width="50%" valign="top">
